@@ -17,7 +17,7 @@ This project compares the similarity between two audio files using Dynamic Time 
 
 <p align="center">
 Output of the test.py file with 5 sample audio clips saying the phrase "Hello World"<br/>
-<img src="https://imgur.com/a/kYzNNcy.png" height="80%" width="80%" alt="test.py demo"/>
+<img src="https://imgur.com/LCLJokY.png" height="80%" width="80%" alt="test.py demo"/>
 <br />
 </p>
 
