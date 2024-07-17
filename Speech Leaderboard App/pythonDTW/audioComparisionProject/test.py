@@ -9,7 +9,7 @@ sample4 = "test_audio/Hello World (3).wav"
 sample5 = "test_audio/Dummy Recording.wav"
 
 # Returns a distance of 0 because they are identical and there are no differences
-print(GiveScore.give_score(sample1, sample1)
+print(GiveScore.give_score(sample1, sample1))
 
 # Returns a greater distance because they are similar but not identical
 print(GiveScore.give_score(sample1, sample2))
