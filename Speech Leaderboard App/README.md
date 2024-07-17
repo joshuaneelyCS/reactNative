@@ -17,10 +17,14 @@ This app records the audio from the user and then compares it to an audio clip f
 
 <p align="center">
 User Interface when they first open the app<br/>
-<img src="https://imgur.com/a/l17sDJq.png" height="80%" width="80%" alt="Image 1"/>
+ <br />
+<img src="https://imgur.com/5PYbqLP.png" height="30%" width="30%" alt="Image 1"/>
 <br />
+ <br />
+ <br />
 Screen after they have recorded some audio<br/>
-<img src="https://imgur.com/a/LYgh5iu.png" height="80%" width="80%" alt="Image 2"/>
+ <br />
+<img src="https://imgur.com/OyxrJx0.png" height="30%" width="30%" alt="Image 2"/>
 <br />
 </p>
 
