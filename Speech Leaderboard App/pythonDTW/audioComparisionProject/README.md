@@ -7,11 +7,11 @@ This project compares the similarity between two audio files using Dynamic Time 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python, Java Script</b> 
+- <b>Python</b> 
 
 <h2>Environments Used </h2>
 
-- <b>React Native, MacOS</b> (21H2)
+- <b>MacOS</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
